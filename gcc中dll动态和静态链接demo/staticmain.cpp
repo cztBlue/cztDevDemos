@@ -10,6 +10,7 @@
 // g++ -shared -o mylib.dll ./mylib.cpp
 // g++ -o staticmain ./staticmain.cpp -L. -lmylib
 
+//gun使用命令参数的形式来链接dll，而MSVC则是在文件中使用 #pragma comment(lib, "Dllname.lib")来链接
 #include "mylib.h"
 #include <iostream>
 #include <windows.h>

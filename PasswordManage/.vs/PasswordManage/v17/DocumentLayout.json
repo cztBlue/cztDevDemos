@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\codeD\\cztDevDemos\\PasswordManage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33F71E49-E153-46F8-8696-55D53D755482}|PasswordManage\\PasswordManage.csproj|d:\\coded\\cztdevdemos\\passwordmanage\\passwordmanage\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F71E49-E153-46F8-8696-55D53D755482}|PasswordManage\\PasswordManage.csproj|solutionrelative:passwordmanage\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F71E49-E153-46F8-8696-55D53D755482}|PasswordManage\\PasswordManage.csproj|D:\\codeD\\cztDevDemos\\PasswordManage\\passwordmanage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33F71E49-E153-46F8-8696-55D53D755482}|PasswordManage\\PasswordManage.csproj|solutionrelative:passwordmanage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F71E49-E153-46F8-8696-55D53D755482}|PasswordManage\\PasswordManage.csproj|D:\\codeD\\cztDevDemos\\PasswordManage\\passwordmanage\\passwordstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F71E49-E153-46F8-8696-55D53D755482}|PasswordManage\\PasswordManage.csproj|solutionrelative:passwordmanage\\passwordstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F71E49-E153-46F8-8696-55D53D755482}|PasswordManage\\PasswordManage.csproj|D:\\codeD\\cztDevDemos\\PasswordManage\\passwordmanage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F71E49-E153-46F8-8696-55D53D755482}|PasswordManage\\PasswordManage.csproj|solutionrelative:passwordmanage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PasswordStruct.cs",
+              "DocumentMoniker": "D:\\codeD\\cztDevDemos\\PasswordManage\\PasswordManage\\PasswordStruct.cs",
+              "RelativeDocumentMoniker": "PasswordManage\\PasswordStruct.cs",
+              "ToolTip": "D:\\codeD\\cztDevDemos\\PasswordManage\\PasswordManage\\PasswordStruct.cs",
+              "RelativeToolTip": "PasswordManage\\PasswordStruct.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:19:26.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\codeD\\cztDevDemos\\PasswordManage\\PasswordManage\\Form1.cs",
+              "RelativeDocumentMoniker": "PasswordManage\\Form1.cs",
+              "ToolTip": "D:\\codeD\\cztDevDemos\\PasswordManage\\PasswordManage\\Form1.cs",
+              "RelativeToolTip": "PasswordManage\\Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:51:10.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\codeD\\cztDevDemos\\PasswordManage\\PasswordManage\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PasswordManage\\Form1.Designer.cs",
+              "ToolTip": "D:\\codeD\\cztDevDemos\\PasswordManage\\PasswordManage\\Form1.Designer.cs",
+              "RelativeToolTip": "PasswordManage\\Form1.Designer.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAA3wDsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:10:47.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\codeD\\cztDevDemos\\PasswordManage\\PasswordManage\\Form1.cs",
+              "RelativeDocumentMoniker": "PasswordManage\\Form1.cs",
+              "ToolTip": "D:\\codeD\\PasswordManage\\PasswordManage\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\PasswordManage\\PasswordManage\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:15:01.128Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
