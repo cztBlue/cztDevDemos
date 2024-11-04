@@ -25,3 +25,21 @@
 提供两份样例。
 single样例用命令编译(command在cmakelist.txt中)演示了一个包含头文件的代码如何编译。
 multi样例将gcc中dll动态链接demo改造成用cmake形式编译,运行compiler.ps1即可在biuld/output/bin中找到可执行文件。
+
+【Python控制台小游戏】
+环境:Windows Python 3.10
+实现了一个仿照魔塔的控制台小游戏 
+因为历史原因所有的代码都写在dev.py,还没有拆出来(因为这是作业代码不让拆开写...)  
+`$ python ./dev.py`即可  
+
+完成了基本的的Prefab抽象  
+完成了Prefa对象间的Action机制  
+完成了基本的Animation渲染功能    
+完成了基本的Event广播机制   
+完成了动态加载UI(Widget)机制  
+完成了动态加载地图机制  
+通过json实现了基本的数据存储机制  
+完成了了地图/动画资源的储存与运行代码的解耦  
+完成了一个地图资源编辑器srcedit.py  
+
+
