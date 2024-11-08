@@ -31,7 +31,6 @@ multi样例将gcc中dll动态链接demo改造成用cmake形式编译,运行compi
 实现了一个仿照魔塔的控制台小游戏 
 因为历史原因所有的代码都写在dev.py,还没有拆出来(因为这是作业代码不让拆开写...)  
 `$ python ./dev.py`即可  
-
 完成了基本的的Prefab抽象  
 完成了Prefa对象间的Action机制  
 完成了基本的Animation渲染功能    
@@ -40,6 +39,11 @@ multi样例将gcc中dll动态链接demo改造成用cmake形式编译,运行compi
 完成了动态加载地图机制  
 通过json实现了基本的数据存储机制  
 完成了了地图/动画资源的储存与运行代码的解耦  
-完成了一个地图资源编辑器srcedit.py  
+完成了一个地图资源编辑器srcedit.py 
+11-8：拆开改了一遍,现在勉强能看了，py写大一点的东西真是折磨，key_handler还要再改改，以后再说吧...
 
+【PyQt5统计信息熵demo】
+环境:Windows pyqt5-lite python 3.8 Embeding
+一个用pystand封装的pyqt项目  
+可以统计文本信息熵  
 
