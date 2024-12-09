@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\codeD\\cztDevDemos\\cztBlueTools\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3A90FA-9A16-42AE-BD56-C1E3D6BC5F46}|cztBlueTools\\cztBlueTools.csproj|d:\\coded\\cztdevdemos\\cztbluetools\\cztbluetools\\panelpasswordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3A90FA-9A16-42AE-BD56-C1E3D6BC5F46}|cztBlueTools\\cztBlueTools.csproj|solutionrelative:cztbluetools\\panelpasswordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3A90FA-9A16-42AE-BD56-C1E3D6BC5F46}|cztBlueTools\\cztBlueTools.csproj|D:\\codeD\\cztDevDemos\\cztBlueTools\\cztbluetools\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D3A90FA-9A16-42AE-BD56-C1E3D6BC5F46}|cztBlueTools\\cztBlueTools.csproj|solutionrelative:cztbluetools\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3A90FA-9A16-42AE-BD56-C1E3D6BC5F46}|cztBlueTools\\cztBlueTools.csproj|D:\\codeD\\cztDevDemos\\cztBlueTools\\cztbluetools\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3A90FA-9A16-42AE-BD56-C1E3D6BC5F46}|cztBlueTools\\cztBlueTools.csproj|solutionrelative:cztbluetools\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3A90FA-9A16-42AE-BD56-C1E3D6BC5F46}|cztBlueTools\\cztBlueTools.csproj|D:\\codeD\\cztDevDemos\\cztBlueTools\\cztbluetools\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3A90FA-9A16-42AE-BD56-C1E3D6BC5F46}|cztBlueTools\\cztBlueTools.csproj|solutionrelative:cztbluetools\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\codeD\\cztDevDemos\\cztBlueTools\\cztBlueTools\\MainForm.cs",
+              "RelativeDocumentMoniker": "cztBlueTools\\MainForm.cs",
+              "ToolTip": "D:\\codeD\\cztDevDemos\\cztBlueTools\\cztBlueTools\\MainForm.cs",
+              "RelativeToolTip": "cztBlueTools\\MainForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:01:02.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\codeD\\cztDevDemos\\cztBlueTools\\cztBlueTools\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "cztBlueTools\\MainForm.Designer.cs",
+              "ToolTip": "D:\\codeD\\cztDevDemos\\cztBlueTools\\cztBlueTools\\MainForm.Designer.cs",
+              "RelativeToolTip": "cztBlueTools\\MainForm.Designer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwEAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:00:50.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\codeD\\cztDevDemos\\cztBlueTools\\cztBlueTools\\MainForm.cs",
+              "RelativeDocumentMoniker": "cztBlueTools\\MainForm.cs",
+              "ToolTip": "D:\\codeD\\cztBlueTools\\cztBlueTools\\MainForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\cztBlueTools\\cztBlueTools\\MainForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T00:30:13.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PanelPasswordManager.cs",
+              "DocumentMoniker": "D:\\codeD\\cztDevDemos\\cztBlueTools\\cztBlueTools\\PanelPasswordManager.cs",
+              "RelativeDocumentMoniker": "cztBlueTools\\PanelPasswordManager.cs",
+              "ToolTip": "D:\\codeD\\cztDevDemos\\cztBlueTools\\cztBlueTools\\PanelPasswordManager.cs",
+              "RelativeToolTip": "cztBlueTools\\PanelPasswordManager.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAYwJkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:53:16.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\codeD\cztBlueTools\cztBlueTools\bin\Debug\cztBlueTools.exe.config
+D:\codeD\cztBlueTools\cztBlueTools\bin\Debug\cztBlueTools.exe
+D:\codeD\cztBlueTools\cztBlueTools\bin\Debug\cztBlueTools.pdb
+D:\codeD\cztBlueTools\cztBlueTools\obj\Debug\cztBlueTools.csproj.AssemblyReference.cache
+D:\codeD\cztBlueTools\cztBlueTools\obj\Debug\cztBlueTools.MainForm.resources
+D:\codeD\cztBlueTools\cztBlueTools\obj\Debug\cztBlueTools.Properties.Resources.resources
+D:\codeD\cztBlueTools\cztBlueTools\obj\Debug\cztBlueTools.csproj.GenerateResource.cache
+D:\codeD\cztBlueTools\cztBlueTools\obj\Debug\cztBlueTools.csproj.CoreCompileInputs.cache
+D:\codeD\cztBlueTools\cztBlueTools\obj\Debug\cztBlueTools.exe
+D:\codeD\cztBlueTools\cztBlueTools\obj\Debug\cztBlueTools.pdb
+D:\codeD\cztBlueTools\cztBlueTools\obj\Debug\cztBlueTools.PanelAutoScreenshot.resources
+D:\codeD\cztBlueTools\cztBlueTools\bin\Debug\WindowsInput.dll
+D:\codeD\cztBlueTools\cztBlueTools\bin\Debug\WindowsInput.xml
+D:\codeD\cztBlueTools\cztBlueTools\obj\Debug\cztBlueT.DD197E75.Up2Date
+D:\codeD\cztBlueTools\cztBlueTools\bin\Debug\res\favicon.ico

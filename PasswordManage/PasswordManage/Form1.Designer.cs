@@ -49,9 +49,6 @@ namespace PasswordManage
         #endregion
 
         private Panel panel { get; set; }
-        /// <summary>
-        /// 动态控件
-        /// </summary>
         private void DynamicComponentGenerator() 
         {
             //panel

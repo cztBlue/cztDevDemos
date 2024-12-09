@@ -250,6 +250,8 @@ def init_game():
                         str(dat["worlddat"]["currentmapid"])
                     ],
                 )
+                
+                
 
         else:
             gvar.gPlayer = Player("cztBlue@tao", "😐")

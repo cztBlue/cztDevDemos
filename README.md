@@ -47,3 +47,12 @@ multi样例将gcc中dll动态链接demo改造成用cmake形式编译,运行compi
 一个用pystand封装的pyqt项目  
 可以统计文本信息熵  
 
+【Math】
+环境:Windows python各种包
+一些独立的数学小实例
+
+【cztBlueTools】
+环境：.NetFramework4.8 winform
+一个利用winform自制的小工具合集
+可以自动化批量截图
+
